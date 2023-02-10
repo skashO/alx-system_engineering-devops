@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vinvent:staff /u
+chown -h R vinvent:staff .
